@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+
+    //labels
+    <string name="name_label">Name:</string>
+    <string name="description_label">Description:</string>
+    <string name="date_label">Date:</string>
+    <string name="serves_label">Serves:</string>
+    <string name="ingredients_label">Ingredients:</string>
+    <string name="approach_label">Approach:</string>
+    <string name="comment_label">Comment:</string>
+    <string name="recipe_name_label">Recipe name:</string>
+    <string name="webrecipe_name_label">Webrecipe name:</string>
+    <string name="date_created_label">Date created:</string>
+    //labels
+
+    //hints
+    <string name="search_hint">Search!</string>
+    //hints
+
+    //toast text
+    <string name="no_delete_recipe_toast">You can\'t delete non existing recipe</string>
+    <string name="no_delete_webrecipe_toast">You can\'t delete non existing webrecipe</string>
+    //toast text
+
+    //Actionbar buttons
+    <string name="action_delete_recipe">Delete Recipe</string>
+    <string name="action_save_recipe">Save Recipe</string>
+    <string name="action_create_recipe">Create Recipe</string>
+    <string name="action_create_webrecipe">Create Webrecipe</string>
+    <string name="action_search">Search</string>
+    //Actionbar buttons
+
+    //drawer
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    //drawer
+
+    //titles
+    <string name="title_all_recipes">All Recipes</string>
+    <string name="title_search_recipes">Search Recipes</string>
+    <string name="title_create_recipe">Create Recipe</string>
+    <string name="title_create_webrecipe">Create Webrecipe</string>
+    //titles
+
+    <string name="url">https://google.com/</string>
+
+//----------------------string arrays--------------------------------------
+
+    <string-array name="recipes">
+        <item>Meatballs</item>
+        <item>Green Curry</item>
+    </string-array>
+
+    <string-array name="webrecipes">
+        <item>Web Food</item>
+        <item>Web Snack</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>All Recipes</item>
+        <item>Local Recipes</item>
+        <item>Web Recipes</item>
+    </string-array>
+
+
+</resources>
